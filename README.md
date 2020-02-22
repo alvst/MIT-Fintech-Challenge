@@ -44,4 +44,12 @@ There is a chance to test submit at DAY2 9:00 AM to make sure you have the corre
 
 ## Grading:
 We will use Cohen's Kappa to evaluate the prediction results. https://en.wikipedia.org/wiki/Cohen%27s_kappa
+
+A breakdown of the scoring is:
+- 20% label 1 prediction
+- 20% label 2 prediction
+- 20% label 3 prediction
+- 20% presentation
+- 20% user interface
+
 ## Enjoy hacking!
