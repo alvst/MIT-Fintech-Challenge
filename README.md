@@ -20,6 +20,9 @@ We encourage groups to come up with creative solutions. To give you a head start
 - Another approach would be to randomly replace the endUserRefs for each epoch (e.g. shift the one-hot encoded vector or randomize the int map -- depending on how its represented). If we were to consider some ethical aspects of spoofying classification, it sounds a bit unfair to systematically skewing classification towards particular endUserRefs - i.e. if the user has spoofied before the classifier will think the user is very likely to spoof again in the future. Therefore, we encourage you to try to make this agnostic of endUserRef (i.e. not biased against any specific individual). To do so you can use data from multiple instruments, shuffle endUserRefs within each batch, or any other form of regularization.
 
 ## Submission:
+
+#### Note: feel free to include the UIs (visualizations) in the submission zip folder as well ####
+
 Please upload your results to the **Submission folder** during DAY2 before 11:00 AM as a zip file with the following naming convension:
 * **Team_teamname.zip** 
 
